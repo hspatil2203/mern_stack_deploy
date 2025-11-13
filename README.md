@@ -1,1 +1,1 @@
-# mearn_stack_deploy
+# mern_stack_deploy
